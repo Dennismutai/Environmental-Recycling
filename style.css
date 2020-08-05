@@ -1,0 +1,8 @@
+*{
+    font-family: Arial,sans-serif;
+    color:rgb(237, 243, 235);
+    overflow-x: hidden;
+    background-color:green;
+    box-sizing: border-box;
+    font-size: large;
+}
