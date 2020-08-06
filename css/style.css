@@ -3,10 +3,50 @@ p{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+    border: inherit;
 }
 body{
     font-family: Arial,sans-serif;
     overflow-x: hidden;
-    background-color:green:
-}
+    background-color:rgb(87, 145, 87);
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-clean-and-peaceful-spring-festival-safe-home-background-design-backgroundbuildingpeaceful-spring-image_78018.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+
+  li a {
+    display: block;
+    color:grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:black;
+  }
+  .intro{
+      font-size: x-large;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      justify-content: left;
+
+  }
+  .title{
+      font-size: xx-large;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-style: initial;
+      text-align: center;
+  }
+
+
+  
