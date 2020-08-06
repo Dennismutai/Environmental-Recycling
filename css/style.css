@@ -54,5 +54,15 @@ body{
       color: rgb(45, 151, 45);
   }
 
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+   font-size: x-large;
+  }
+
 
   
