@@ -36,9 +36,11 @@ body{
     background-color:black;
   }
   .intro{
-      font-size: x-large;
+      font-size: 25px;
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
       justify-content: left;
+      margin-top: 70px;
+      
 
   }
   .title{
